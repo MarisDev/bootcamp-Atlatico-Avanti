@@ -1,0 +1,28 @@
+# Atividade 01 – Conceitos Básicos de Machine Learning
+
+## 1. O que é Machine Learning?
+Machine learning é uma área da inteligência artificial que permite que computadores aprendam a partir de dados. 
+O sistema analisa exemplos, identifica padrões e passa a tomar decisões ou fazer previsões com base nesse aprendizado.
+
+## 2. Conjunto de treinamento, validação e teste
+Em machine learning, os dados costumam ser divididos em:
+- O conjunto de treinamento é usado para ensinar o modelo, ou seja, é onde ele aprende os padrões.
+- O conjunto de validação serve para ajustar o modelo e verificar se ele está aprendendo da forma correta.
+- O conjunto de teste que é utilizado no final, para avaliar o desempenho real do modelo com dados que ele nunca viu antes.
+
+## 3. Tratamento de dados ausentes
+Quando existem dados ausentes, é importante analisar o impacto disso no problema. Em alguns casos, é possível remover os registros incompletos, principalmente se forem poucos. 
+Em outros, pode-se preencher os valores faltantes usando a média, a mediana ou o valor mais frequente, dependendo do tipo de dado. 
+O objetivo é evitar que a falta de informações prejudique o aprendizado do modelo.
+
+## 4. Matriz de confusão
+A matriz de confusão é uma tabela que compara os valores reais com os valores previstos por um modelo de classificação,
+permitindo avaliar acertos e erros e calcular métricas como acurácia, precisão e recall.
+
+## 5. Áreas de aplicação de Machine Learning
+Machine Learning pode ser aplicado em diversas áreas, como:
+- Saúde (diagnóstico),
+- Agricultura (previsão de safra), 
+- Industria (manutenção preditiva), 
+- Construção civil (previsão de custos),
+- Finanças (detecção de fraudes).
